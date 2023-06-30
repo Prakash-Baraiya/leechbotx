@@ -13,19 +13,19 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "6209295583:AAHFIQrlh-780M-bTNfnQzN0Z7qR8m21LKU"
+      "value": "6168923768:AAHiMor5VPSNSlbfKR_21wJE6mEFcsDPqbE"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "10577960"
+      "value": "23321997"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "80fd047285f4e94ca80311928b6bb5da"
+      "value": "3c0378a72f84d4dfe7d701bba5f3bbaa"
     },
     "OWNER_ID": {
       "description": "Your telegram id, not username. Open https://t.me/MissRose_bot and send /id to bot. Left empty if you want bot public",
-      "value": "5593532344",
+      "value": "5903548785",
       "required": false
     },
     "AS_ZIP": {
