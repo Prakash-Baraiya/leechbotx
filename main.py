@@ -31,7 +31,7 @@ API_HASH="3c0378a72f84d4dfe7d701bba5f3bbaa"
 bot = Client(
     "bot",
     bot_token=os.environ.get("BOT_TOKEN"),
-    api_id=(int(os.environ.get("API_ID"))),
+    api_id=int(os.environ.get("API_ID")),
     api_hash=os.environ.get("API_HASH")
 )
 
